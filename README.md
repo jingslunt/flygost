@@ -1,11 +1,11 @@
-# flygost
+### flygost
 ```
 fly launch  #启动
 fly deploy  #更新
 fly status  #查看地区
 ```
 
-客户端
+###客户端
 gost -C gost.yaml
 ```
 services:
